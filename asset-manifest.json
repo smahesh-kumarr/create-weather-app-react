@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-weather-app-react/static/css/main.984bd868.css",
+    "main.js": "/create-weather-app-react/static/js/main.8e567fde.js",
+    "static/js/488.b0cd3a0c.chunk.js": "/create-weather-app-react/static/js/488.b0cd3a0c.chunk.js",
+    "index.html": "/create-weather-app-react/index.html",
+    "main.984bd868.css.map": "/create-weather-app-react/static/css/main.984bd868.css.map",
+    "main.8e567fde.js.map": "/create-weather-app-react/static/js/main.8e567fde.js.map",
+    "488.b0cd3a0c.chunk.js.map": "/create-weather-app-react/static/js/488.b0cd3a0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984bd868.css",
+    "static/js/main.8e567fde.js"
+  ]
+}
